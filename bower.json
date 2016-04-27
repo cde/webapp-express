@@ -1,0 +1,22 @@
+{
+  "name": "webapp-express",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "cde <cdechauri@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  }
+}
