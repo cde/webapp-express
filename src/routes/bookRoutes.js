@@ -18,7 +18,7 @@ var router = function(nav){
                             books: results
                         });
                     }
-                )
+                );
             });
 
 
